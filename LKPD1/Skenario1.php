@@ -6,13 +6,9 @@
     <title>Skenario 1</title>
 </head>
 <body>
-    <h1>Tugas LKPD kelompok Ihsan Naufal && Nur Akbar</h1>
+    <h1>Tugas LKPD kelompok Ihsan Naufal & Nur Akbar</h1>
     <h2>Skenario1</h2>
     <br>
-    <!-- <input type="number" id="nilai" name="nilai" value="Doe"> -->
-    <form name="form" action="" method="post">
-        <input type="number" name="subject" id="subject" value="Car Loan">
-    </form>
     <?php 
 
     // Skenario Pertama

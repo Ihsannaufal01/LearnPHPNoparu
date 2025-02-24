@@ -6,7 +6,7 @@
     <title>Skenario 1</title>
 </head>
 <body>
-    <h1>Tugas LKPD kelompok Ihsan Naufal && Nur Akbar</h1>
+    <h1>Tugas LKPD kelompok Ihsan Naufal & Nur Akbar</h1>
     <h2>Skenario1</h2>
     <br>
     
